@@ -1,0 +1,73 @@
+.branding
+{
+ font-size: 17px;
+}
+
+.showcase
+{
+ background: url("../images/img.jpg") no-repeat;
+ background-position: center;
+ background-size: cover;
+ height: 600px;
+ padding: 140px 100px;
+ color:white;
+}
+
+.showcase h1{
+	font-size: 40px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	text-shadow: 4px 4px 8px #2980b9;
+}
+.showcase hr
+{
+ width: 100px;
+ margin: auto;
+ border-width: 3px;
+ border-color: #e74c3c;	
+}
+.showcase p{
+	font-size: 16px;
+	padding-bottom: 20px;
+	font-family: 'Alegreya Sans';
+}
+.section
+{
+ padding: 40px 0;
+}
+.section h2
+{
+ padding: 0;
+ margin: 0;	
+}
+
+.section .fa{
+	font-size: 50px;
+}
+
+.section img{
+	width: 100%;
+	border:1px solid black;
+}
+
+.section img:hover {
+  opacity: 0.5;
+}
+
+.section .ac{
+	color: #2980b9;
+	font-size: 22px;
+	font-family: 'Flavors';
+}
+.section .ac:hover{
+	color: #3498db;
+	font-weight: bolder;
+}
+
+.section .para
+{
+ font-size: 16px;
+ font-family: 'Give You Glory';
+ color: red;
+ font-weight: bolder;
+}
